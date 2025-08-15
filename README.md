@@ -1,4 +1,5 @@
 # Welcome to your Expo app 👋
+<img width="1280" height="720" alt="কী হুম" src="https://github.com/user-attachments/assets/dd8fe865-f146-45b5-8083-36e309ee2ebf" />
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
